@@ -1,0 +1,2 @@
+{"coord":{"lon":-74.006,"lat":40.7143},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations","main":{"temp":27.45,"feels_like":29.33,"temp_min":25.97,"temp_max":28.68,"pressure":1019,"humidity":67,"sea_level":1019,"grnd_level":1017},"visibility":10000,"wind":{"speed":4.12,"deg":180},"clouds":{"all":0},"dt":1721660744,"sys":{"type":1,"id":4610,"country":"US","sunrise":1721641426,"sunset":1721694052},"timezone":-14400,"id":5128581,"name":"Istanbul","cod":200}
+
